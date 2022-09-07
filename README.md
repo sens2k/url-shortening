@@ -1,2 +1,2 @@
 # url-shortening
-url shortening with native php
+url shortening with native php and Hashids lib.
