@@ -1,5 +1,5 @@
 # url-shortening
-url shortening with native php and Hashids lib.
+
 HTTP сервис для сокращения URL наподобие bitly.com
 
 
