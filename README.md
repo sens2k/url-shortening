@@ -1,6 +1,6 @@
 # url-shortening
 
-HTTP сервис для сокращения URL наподобие bitly.com
+HTTP сервис для сокращения URL наподобие bitly.com на нативном php с использованием библиотеки Hashids.
 
 
 Возможности:
